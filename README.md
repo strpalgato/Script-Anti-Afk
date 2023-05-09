@@ -1,2 +1,2 @@
 # Script-Anti-Afk
-Script para evitar que un juego se cierre o te "kickeen" por AFK
+Programa simple para evitar que un juego se cierre o te kickeen de él por estar "AFK"
